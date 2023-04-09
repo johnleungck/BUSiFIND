@@ -10,9 +10,9 @@ Estimated Time of Arrival
 
 Bus Stops Nearby
 
+# Other
 Launch in App Store Soon
 
-# Other
 Source Code is currently not open to view.
 
 Email me for more information
