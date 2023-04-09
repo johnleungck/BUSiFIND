@@ -1,5 +1,9 @@
 # BUSiFIND
-A Trip Planning and Route Searching APP in Hong Kong
+A Trip Planning and Route Searching App
+
+Available in Hong Kong
+
+IOS Only
 
 # Key Features
 Point-to-Point Route Search
