@@ -17,9 +17,9 @@ Bus Stops Nearby
 # Other
 Launch in App Store Soon
 
-Source Code is currently not open to view.
+Email for Joining the Beta Test
 
-Email me for more information
+Contact me for more information
 
 
 Institute email: u3568326@connect.hku.hk
