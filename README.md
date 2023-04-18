@@ -15,15 +15,15 @@ Estimated Time of Arrival
 Bus Stops Nearby
 
 # Other
-Launch in App Store Soon
+Available in App Store (iOS 16.2 or above)
 
-Email for Joining the Beta Test
 
 Contact me for more information
 
 
 Institute email: u3568326@connect.hku.hk
 Personal email: chungkai615@gmail.com
+
 
 # Privacy Pollicy
 Privacy Policy for BUSiFIND App
