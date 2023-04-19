@@ -5,7 +5,7 @@ Available in Hong Kong
 
 IOS Only
 
-# Key Features
+## Key Features
 Point-to-Point Route Search
 
 Augmented Reality Walking Directions
@@ -14,9 +14,12 @@ Estimated Time of Arrival
 
 Bus Stops Nearby
 
-# Other
+## Other
 Available in App Store (iOS 16.2 or above)
 
+![alt text](https://github.com/Leiumgg/BUSiFIND/blob/main/qr-code.png?raw=true)
+
+Download it in [App Store](https://apps.apple.com/us/app/busifind/id6447512736) now
 
 Contact me for more information
 
@@ -25,7 +28,7 @@ Institute email: u3568326@connect.hku.hk
 Personal email: chungkai615@gmail.com
 
 
-# Privacy Pollicy
+## Privacy Pollicy
 Privacy Policy for BUSiFIND App
 
 At BUSiFIND, we are committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, and disclose information when you use our app.
