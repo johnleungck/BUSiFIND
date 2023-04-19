@@ -18,6 +18,7 @@ Bus Stops Nearby
 Available in App Store (iOS 16.2 or above)
 
 ![alt text](https://github.com/Leiumgg/BUSiFIND/blob/main/qr-code.png?raw=true)
+<img src="[https://your-image-url.type](https://github.com/Leiumgg/BUSiFIND/blob/main/qr-code.png?raw=true)" width="100" height="100">
 
 Download it in [App Store](https://apps.apple.com/us/app/busifind/id6447512736) now
 
