@@ -10,18 +10,21 @@ IOS Only
 > If you are interested, the app can still be downloaded on App Store.
 
 ## Key Features
-Point-to-Point Route Search
+- Point-to-Point Route Search
 
-Augmented Reality Walking Directions
+- Augmented Reality Walking Directions
 
-Estimated Time of Arrival
+- Estimated Time of Arrival
 
-Bus Stops Nearby
+- Bus Stops Nearby
+
+## Poster
+<img src="https://github.com/johnleungck/BUSiFIND/blob/main/githubPoster.jpg">
 
 ## Other
 Available in App Store (iOS 16.2 or above)
 
-<img src="https://github.com/Leiumgg/BUSiFIND/blob/main/qr-code.png?raw=true" width="200" height="200">
+<img src="https://github.com/johnleungck/BUSiFIND/blob/main/qr-code.png?raw=true" width="200" height="200">
 
 Download it in [App Store](https://apps.apple.com/us/app/busifind/id6447512736) now
 
