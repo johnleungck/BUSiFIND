@@ -11,12 +11,13 @@ IOS Only
 
 ## Key Features
 - Point-to-Point Route Search
-
 - Augmented Reality Walking Directions
-
 - Estimated Time of Arrival
-
 - Bus Stops Nearby
+
+- Brief Demonstration
+  - https://youtube.com/shorts/PHXv6FwQjvA?feature=share
+  - https://youtube.com/shorts/HVxzwG04gR0?feature=share
 
 ## Poster
 <img src="https://github.com/johnleungck/BUSiFIND/blob/main/posterGithub.png?raw=true">
