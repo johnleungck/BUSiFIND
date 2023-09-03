@@ -6,7 +6,8 @@ Available in Hong Kong
 IOS Only
 
 > [!NOTE]
-> This app is a project for my final year project and no longer maintained but the app can still be found on App Store.
+> This app is a project for my final year project and no longer maintained.
+> If you are interested, the app can still be downloaded on App Store.
 
 ## Key Features
 Point-to-Point Route Search
