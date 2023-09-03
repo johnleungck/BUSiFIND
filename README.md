@@ -19,7 +19,7 @@ IOS Only
 - Bus Stops Nearby
 
 ## Poster
-<img src="https://github.com/johnleungck/BUSiFIND/blob/main/githubPoster.jpg">
+<img src="https://github.com/johnleungck/BUSiFIND/blob/main/posterGithub.png?raw=true">
 
 ## Other
 Available in App Store (iOS 16.2 or above)
